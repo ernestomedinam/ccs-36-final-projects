@@ -83,3 +83,55 @@ tienda virtual de uniformes y batas médicas.
 - gestionar inventario
 - integrar pagos
 
+-----
+
+## haztuoferta.com 🤑
+
+aplicación para solicitar productos y servicios que pueden ser atendidos por otros usuarios.
+- usuarios: personas naturales que quieren comprar o vender productos y/o servicios poco comunes, usados o de rangos de precio volátiles
+- solicitar productos y servicios con base en un precio y unas condiciones
+- ofertar para atender solicitudes con base en un precio y unas condiciones
+- valoración de usuarios, sistema de reputación
+
+-----
+
+## Educoteca 📚
+
+plataforma para exposición, intercambio y distribución de contenido académico gratuito con énfasis en la promoción de sus autores.
+- cargar contenido a la plataforma
+- gestión de usuario y gestión de contenido adicional
+- valoración de usuarios y contenido, sistema de reputación
+
+-----
+
+## Oficios 💼
+
+plataforma para prestadores de servicios técnicos, independientes o personas jurídicas, con base en reputación/recomendación de conocidos.
+
+-----
+
+## Tindogs 🐶
+
+aplicación para gestión de citas de mascotas con/sin información genealógica.
+- buscar citas para mi mascota
+- gestionar información de mi mascota
+- rrss
+
+-----
+
+## Sorte-o-rama 🎫
+
+aplicación para crear sorteos de selección aleatoria entre participantes inscritos a partir de invitaciones abiertas para publicación en redes sociales.
+- seleccionar, personalizar y crear sorteo
+- publicar sorteo
+- inscribirse en sorteos
+- finalizar sorteo
+
+-----
+
+## Umana 👽
+
+aplicación para evaluación/gestión de personal con base en evaluaciones y prácticas de talento humano.
+- crear staff
+- correr evaluación al staff por pares, jefes, subordinados y clientes
+- publicar resultados y distribuir como enlaces o a través de correos electrónicos
