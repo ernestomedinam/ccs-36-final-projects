@@ -93,6 +93,13 @@ aplicación para solicitar productos y servicios que pueden ser atendidos por ot
 - ofertar para atender solicitudes con base en un precio y unas condiciones
 - valoración de usuarios, sistema de reputación
 
+@danielmoret
+- Registro de usuarios (venderores y/o compradores)
+- Seccion para agregar y publicar productos y/o servicios 
+- Seccion de productos y/o servicios disponibles
+- Descripcion mas detallada de c/u de los productos y/o servicios
+- Valoración de usuarios, sistema de reputación
+- Filtros por region, precio, condiciones del producto, categoria, etc
 -----
 
 ## Educoteca 📚
@@ -117,6 +124,12 @@ aplicación para gestión de citas de mascotas con/sin información genealógica
 - gestionar información de mi mascota
 - rrss
 
+@danielmoret
+- Registro del usuario 
+- Que vayan apareciendo las mascotas con caracteristicas en comun (raza, pedigree, años, etc)
+- Dar me gusta a la mascota que nos interese
+- Poder interactuar/chatear con el dueño de la mascota que nos intereso
+
 -----
 
 ## Sorte-o-rama 🎫
@@ -126,6 +139,14 @@ aplicación para crear sorteos de selección aleatoria entre participantes inscr
 - publicar sorteo
 - inscribirse en sorteos
 - finalizar sorteo
+
+@danielmoret
+- Registro del usuario que hara el sorteo 
+- Cargar la url de la publicacion, post, tweet, etc del sorteo
+- Opciones para que el usuario pueda aplicar distintos filtros dependiendo de las reglas del concurso (eliminar usuarios con comentarios duplicados, minimo de menciones, #Hashtag requerido, suplentes en caso de no aparecer el ganador, etc)
+- Mostrar el ganador
+- Opcion de generar y guardar imagen o video con cuenta regresiva con el ganador 
+- Mostrar opciones para compartir en redes sociales
 
 -----
 
