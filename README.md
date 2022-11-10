@@ -10,8 +10,8 @@ plataforma para gestión de inventario en mipymes. (autonomía/facturación).
 - incluye facturación
 
 ### Equipo 👯‍♂️
+- [@sabahrahal](https://github.com/sabahrahal) 🐱‍👤
 - [@jorgeoviedo3](https://github.com/jorgeoviedo3)
-- [@sabahrahal](https://github.com/sabahrahal)
 - [@Alfredosrl](https://github.com/Alfredosrl)
 - [@danieljesusgonz](https://github.com/danieljesusgonz)
 
@@ -34,8 +34,8 @@ aplicación para solicitar productos y servicios que pueden ser atendidos por ot
 - Filtros por region, precio, condiciones del producto, categoria, etc
 
 ### Equipo 👯‍♂️
+- [@frako23](https://github.com/frako23) 🐱‍👤
 - [@PieroMastro](https://github.com/PieroMastro)
-- [@frako23](https://github.com/frako23)
 - [@Apollosm](https://github.com/Apollosm)
 - [@javierklie](https://github.com/javierklie)
 
@@ -57,7 +57,7 @@ aplicación para crear sorteos de selección aleatoria entre participantes inscr
 - Mostrar opciones para compartir en redes sociales
 
 ### Equipo 👯‍♂️
-- [@danielmoret](https://github.com/danielmoret)
+- [@danielmoret](https://github.com/danielmoret) 🐱‍👤
 - [@luisjaas](https://github.com/luisjaas)
 - [@abrahamjf](https://github.com/abrahamjf)
 - [@estefaniggt](https://github.com/estefaniggt)
