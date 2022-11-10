@@ -3,26 +3,116 @@ ideas for caracas cohort 36 final projects!
 
 -----
 
-## Pets aid 🩺
-
-generador de pre diagnósticos para mascotas con base en signos y síntomas y a partir de la información disponible en sitios web relacionados.
-- web scraping de sitios web de medicina veterinaria 
-
------
-
-## Assets management system 🚗
-
-aplicación para gestión de mantenimiento de vehículos (¿personal/flota?), con posicionamiento gps (?)
-- alertas por vencimiento de actividades de mantenimiento
-- planes estándar de mantenimiento por marca/modelo
-
------
-
 ## Inventory club 📦
 
 plataforma para gestión de inventario en mipymes. (autonomía/facturación).
 - ¿compras, ventas?
 - incluye facturación
+
+### Equipo 👯‍♂️
+- [@jorgeoviedo3](https://github.com/jorgeoviedo3)
+- [@sabahrahal](https://github.com/sabahrahal)
+- [@Alfredosrl](https://github.com/Alfredosrl)
+- [@danieljesusgonz](https://github.com/danieljesusgonz)
+
+-----
+
+## haztuoferta.com 🤑
+
+aplicación para solicitar productos y servicios que pueden ser atendidos por otros usuarios.
+- usuarios: personas naturales que quieren comprar o vender productos y/o servicios poco comunes, usados o de rangos de precio volátiles
+- solicitar productos y servicios con base en un precio y unas condiciones
+- ofertar para atender solicitudes con base en un precio y unas condiciones
+- valoración de usuarios, sistema de reputación
+
+@danielmoret
+- Registro de usuarios (venderores y/o compradores)
+- Seccion para agregar y publicar productos y/o servicios 
+- Seccion de productos y/o servicios disponibles
+- Descripcion mas detallada de c/u de los productos y/o servicios
+- Valoración de usuarios, sistema de reputación
+- Filtros por region, precio, condiciones del producto, categoria, etc
+
+### Equipo 👯‍♂️
+- [@PieroMastro](https://github.com/PieroMastro)
+- [@frako23](https://github.com/frako23)
+- [@Apollosm](https://github.com/Apollosm)
+- [@javierklie](https://github.com/javierklie)
+
+-----
+
+## Sorte-o-rama 🎫
+
+aplicación para crear sorteos de selección aleatoria entre participantes inscritos a partir de invitaciones abiertas para publicación en redes sociales.
+- seleccionar, personalizar y crear sorteo (definir tipos de sorteo)
+- publicar sorteo
+- inscribirse en sorteos
+- finalizar sorteo
+
+- Registro del usuario que hara el sorteo 
+- Cargar la url de la publicacion, post, tweet, etc del sorteo
+- Opciones para que el usuario pueda aplicar distintos filtros dependiendo de las reglas del concurso (eliminar usuarios con comentarios duplicados, minimo de menciones, #Hashtag requerido, suplentes en caso de no aparecer el ganador, etc)
+- Mostrar el ganador
+- Opcion de generar y guardar imagen o video con cuenta regresiva con el ganador 
+- Mostrar opciones para compartir en redes sociales
+
+### Equipo 👯‍♂️
+- [@danielmoret](https://github.com/danielmoret)
+- [@luisjaas](https://github.com/luisjaas)
+- [@abrahamjf](https://github.com/abrahamjf)
+- [@estefaniggt](https://github.com/estefaniggt)
+
+-----
+
+# para otra ocasión... 😅
+
+-----
+
+## Pets aid 🩺
+
+generador de pre diagnósticos para mascotas con base en signos y síntomas y a partir de la información disponible en sitios web relacionados.
+- web scraping de sitios web de medicina veterinaria 
+- directorio de veterinarios referidos por usuarios
+- directorio de farmacia y peluquerías para animales
+
+-----
+
+## Umana 👽
+
+aplicación para evaluación/gestión de personal con base en evaluaciones y prácticas de talento humano.
+- crear staff
+- correr evaluación al staff por pares, jefes, subordinados y clientes
+- publicar resultados y distribuir como enlaces o a través de correos electrónicos
+
+-----
+
+## Educoteca 📚
+
+plataforma para exposición, intercambio y distribución de contenido académico gratuito con énfasis en la promoción de sus autores.
+- cargar contenido a la plataforma
+- gestión de usuario y gestión de contenido adicional
+- valoración de usuarios y contenido, sistema de reputación
+
+-----
+
+## Oficios 💼
+
+plataforma para prestadores de servicios técnicos, independientes o personas jurídicas, con base en reputación/recomendación de conocidos.
+
+-----
+
+## Tindogs 🐶
+
+aplicación para gestión de citas de mascotas con/sin información genealógica.
+- buscar citas para mi mascota
+- gestionar información de mi mascota
+- rrss
+
+@danielmoret
+- Registro del usuario 
+- Que vayan apareciendo las mascotas con caracteristicas en comun (raza, pedigree, años, etc)
+- Dar me gusta a la mascota que nos interese
+- Poder interactuar/chatear con el dueño de la mascota que nos intereso
 
 -----
 
@@ -85,74 +175,8 @@ tienda virtual de uniformes y batas médicas.
 
 -----
 
-## haztuoferta.com 🤑
+## Assets management system 🚗
 
-aplicación para solicitar productos y servicios que pueden ser atendidos por otros usuarios.
-- usuarios: personas naturales que quieren comprar o vender productos y/o servicios poco comunes, usados o de rangos de precio volátiles
-- solicitar productos y servicios con base en un precio y unas condiciones
-- ofertar para atender solicitudes con base en un precio y unas condiciones
-- valoración de usuarios, sistema de reputación
-
-@danielmoret
-- Registro de usuarios (venderores y/o compradores)
-- Seccion para agregar y publicar productos y/o servicios 
-- Seccion de productos y/o servicios disponibles
-- Descripcion mas detallada de c/u de los productos y/o servicios
-- Valoración de usuarios, sistema de reputación
-- Filtros por region, precio, condiciones del producto, categoria, etc
------
-
-## Educoteca 📚
-
-plataforma para exposición, intercambio y distribución de contenido académico gratuito con énfasis en la promoción de sus autores.
-- cargar contenido a la plataforma
-- gestión de usuario y gestión de contenido adicional
-- valoración de usuarios y contenido, sistema de reputación
-
------
-
-## Oficios 💼
-
-plataforma para prestadores de servicios técnicos, independientes o personas jurídicas, con base en reputación/recomendación de conocidos.
-
------
-
-## Tindogs 🐶
-
-aplicación para gestión de citas de mascotas con/sin información genealógica.
-- buscar citas para mi mascota
-- gestionar información de mi mascota
-- rrss
-
-@danielmoret
-- Registro del usuario 
-- Que vayan apareciendo las mascotas con caracteristicas en comun (raza, pedigree, años, etc)
-- Dar me gusta a la mascota que nos interese
-- Poder interactuar/chatear con el dueño de la mascota que nos intereso
-
------
-
-## Sorte-o-rama 🎫
-
-aplicación para crear sorteos de selección aleatoria entre participantes inscritos a partir de invitaciones abiertas para publicación en redes sociales.
-- seleccionar, personalizar y crear sorteo
-- publicar sorteo
-- inscribirse en sorteos
-- finalizar sorteo
-
-@danielmoret
-- Registro del usuario que hara el sorteo 
-- Cargar la url de la publicacion, post, tweet, etc del sorteo
-- Opciones para que el usuario pueda aplicar distintos filtros dependiendo de las reglas del concurso (eliminar usuarios con comentarios duplicados, minimo de menciones, #Hashtag requerido, suplentes en caso de no aparecer el ganador, etc)
-- Mostrar el ganador
-- Opcion de generar y guardar imagen o video con cuenta regresiva con el ganador 
-- Mostrar opciones para compartir en redes sociales
-
------
-
-## Umana 👽
-
-aplicación para evaluación/gestión de personal con base en evaluaciones y prácticas de talento humano.
-- crear staff
-- correr evaluación al staff por pares, jefes, subordinados y clientes
-- publicar resultados y distribuir como enlaces o a través de correos electrónicos
+aplicación para gestión de mantenimiento de vehículos (¿personal/flota?), con posicionamiento gps (?)
+- alertas por vencimiento de actividades de mantenimiento
+- planes estándar de mantenimiento por marca/modelo
