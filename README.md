@@ -3,7 +3,7 @@ ideas for caracas cohort 36 final projects!
 
 -----
 
-## Inventory club 📦
+## Stocky 📦
 
 plataforma para gestión de inventario en mipymes. (autonomía/facturación).
 - ¿compras, ventas?
