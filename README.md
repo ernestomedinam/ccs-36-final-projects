@@ -41,13 +41,14 @@ aplicación para solicitar productos y servicios que pueden ser atendidos por ot
 
 -----
 
-## Sorte-o-rama 🎫
+## Riffast 🎫
 
-aplicación para crear sorteos de selección aleatoria entre participantes inscritos a partir de invitaciones abiertas para publicación en redes sociales.
-- seleccionar, personalizar y crear sorteo (definir tipos de sorteo)
-- publicar sorteo
-- inscribirse en sorteos
-- finalizar sorteo
+Aplicación para crear y organizar rifas de manera mas eficiente y segura. La aplicacion facilitara los procesos que actualmente son manuales y que requieren de una moderada dedicacion de tiempo. Al crear talonarios, los usuarios podran compartir sus rifas y organizar los tickets que se han vendido, y los que faltan por vender. Por otra parte, los usuarios que quieran adquirir algun ticket, podran hacerlo desde la aplicacion, apartando el  o los numeros deseados, para luego contactar al creador de la rifa, y pagar el monto respectivo. 
+
+- Crear, organizar y gestionar rifas.
+- Publicar y compartir rifas
+- Decidir fechas de rifas
+- Finalizar rifas. 
 
 - Registro del usuario que hara el sorteo 
 - Cargar la url de la publicacion, post, tweet, etc del sorteo
