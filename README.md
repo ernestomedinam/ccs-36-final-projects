@@ -3,17 +3,27 @@ ideas for caracas cohort 36 final projects!
 
 -----
 
-## Stocky 📦
+## Riffast 🎫
 
-plataforma para gestión de inventario en mipymes. (autonomía/facturación).
-- ¿compras, ventas?
-- incluye facturación
+Aplicación para crear y organizar rifas de manera mas eficiente y segura. La aplicacion facilitara los procesos que actualmente son manuales y que requieren de una moderada dedicacion de tiempo. Al crear talonarios, los usuarios podran compartir sus rifas y organizar los tickets que se han vendido, y los que faltan por vender. Por otra parte, los usuarios que quieran adquirir algun ticket, podran hacerlo desde la aplicacion, apartando el  o los numeros deseados, para luego contactar al creador de la rifa, y pagar el monto respectivo. 
+
+- Crear, organizar y gestionar rifas.
+- Publicar y compartir rifas
+- Decidir fechas de rifas
+- Finalizar rifas. 
+
+- Registro del usuario que hara el sorteo 
+- Cargar la url de la publicacion, post, tweet, etc del sorteo
+- Opciones para que el usuario pueda aplicar distintos filtros dependiendo de las reglas del concurso (eliminar usuarios con comentarios duplicados, minimo de menciones, #Hashtag requerido, suplentes en caso de no aparecer el ganador, etc)
+- Mostrar el ganador
+- Opcion de generar y guardar imagen o video con cuenta regresiva con el ganador 
+- Mostrar opciones para compartir en redes sociales
 
 ### Equipo 👯‍♂️
-- [@sabahrahal](https://github.com/sabahrahal) 🐱‍👤
-- [@jorgeoviedo3](https://github.com/jorgeoviedo3)
-- [@Alfredosrl](https://github.com/Alfredosrl)
-- [@danieljesusgonz](https://github.com/danieljesusgonz)
+- [@danielmoret](https://github.com/danielmoret) 🐱‍👤
+- [@luisjaas](https://github.com/luisjaas)
+- [@abrahamjf](https://github.com/abrahamjf)
+- [@estefaniggt](https://github.com/estefaniggt)
 
 -----
 
@@ -41,27 +51,15 @@ aplicación para solicitar productos y servicios que pueden ser atendidos por ot
 
 -----
 
-## Riffast 🎫
+## Stocky 📦
 
-Aplicación para crear y organizar rifas de manera mas eficiente y segura. La aplicacion facilitara los procesos que actualmente son manuales y que requieren de una moderada dedicacion de tiempo. Al crear talonarios, los usuarios podran compartir sus rifas y organizar los tickets que se han vendido, y los que faltan por vender. Por otra parte, los usuarios que quieran adquirir algun ticket, podran hacerlo desde la aplicacion, apartando el  o los numeros deseados, para luego contactar al creador de la rifa, y pagar el monto respectivo. 
-
-- Crear, organizar y gestionar rifas.
-- Publicar y compartir rifas
-- Decidir fechas de rifas
-- Finalizar rifas. 
-
-- Registro del usuario que hara el sorteo 
-- Cargar la url de la publicacion, post, tweet, etc del sorteo
-- Opciones para que el usuario pueda aplicar distintos filtros dependiendo de las reglas del concurso (eliminar usuarios con comentarios duplicados, minimo de menciones, #Hashtag requerido, suplentes en caso de no aparecer el ganador, etc)
-- Mostrar el ganador
-- Opcion de generar y guardar imagen o video con cuenta regresiva con el ganador 
-- Mostrar opciones para compartir en redes sociales
+plataforma para gestión de inventario en mipymes. (autonomía/facturación).
+- ¿compras, ventas?
+- incluye facturación
 
 ### Equipo 👯‍♂️
-- [@danielmoret](https://github.com/danielmoret) 🐱‍👤
-- [@luisjaas](https://github.com/luisjaas)
-- [@abrahamjf](https://github.com/abrahamjf)
-- [@estefaniggt](https://github.com/estefaniggt)
+- [@sabahrahal](https://github.com/sabahrahal) 🐱‍👤
+- [@jorgeoviedo3](https://github.com/jorgeoviedo3)
 
 -----
 
